@@ -1,7 +1,7 @@
 # GIT SETUP & CONFIGURATION
 
 ## 1. Identify how to install GIT
-    - Download [GIT](https://git-scm.com/downloads) from git website as per your operating system.
+    Download [GIT](https://www.git-scm.com/downloads) from git website as per your operating system.
 ## 2. Set initial configuration variables
     
     Step 1: Set your user name and email
