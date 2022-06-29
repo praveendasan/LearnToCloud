@@ -6,9 +6,9 @@
   2. Folder is created when you run the "git int" command
   3. It is the GIT repository
   4. The .git directory
-    - Tracks your changes
-    - Stores commit objects
-    - Stores GIT configurations
+      - Tracks your changes
+      - Stores commit objects
+      - Stores GIT configurations
   ### GIT Working Tree
   1. Files and subdirectories on your file system that are associated with a repository
   2. Contains the files of the current branch
