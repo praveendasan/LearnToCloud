@@ -26,8 +26,8 @@
 ## Add files using the "add" and "commit" commands
 - Step 1: Create/Add a file to the GIT Working Tree.
 - Step 2: Add the file to the Staged list
-  - $ git add <filename> (Adds only the specific file you named)
-  - $ git add <directory> (Adds all changed files in the specified directory)
+  - $ git add [filename] (Adds only the specific file you named)
+  - $ git add [directory] (Adds all changed files in the specified directory)
   - $ git add -A (Adds all changed files in the entire project)
 - Step 3: Commit the Staged files
   - $ git commit (Commits all files in the Staged list)
