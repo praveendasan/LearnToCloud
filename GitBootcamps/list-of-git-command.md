@@ -1,2 +1,22 @@
 # List of GIT Commands
-git init
+- git config --global user.name "your name"
+- git config --global user.email youremail@example.com
+- git config --global core.editor "code --wait" [Visual Studio Code]
+- git config --system
+- git config --global
+- git config or git config --local
+- git config --global --list
+- git config --get user.name
+- git config --get-all user.name
+- git init
+- git clone <url>
+- git add [filename]
+- git add [directory]
+- git add -A 
+- git commit
+- git commit -a
+- git status
+- git reset
+- git diff
+- git commit -m
+- git log
